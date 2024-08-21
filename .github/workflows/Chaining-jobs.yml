@@ -1,4 +1,4 @@
-name: Providing inputs
+name: Chaining-jobs
 
 on:
   push:
