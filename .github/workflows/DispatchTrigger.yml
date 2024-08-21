@@ -1,4 +1,4 @@
-name: Custom inputs for the workflow_dispatch trigger
+name: dispatch trigger
 
 on:
   workflow_dispatch:
